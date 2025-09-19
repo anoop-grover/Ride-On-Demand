@@ -12,7 +12,7 @@ Split into **Client** and **Backend**, powered by modern technologies for smooth
 Clone Rent a Ride
 
 ```bash
-https://github.com/jeevan-aj/Rent-a-Ride.git
+https://github.com/anoop-grover/Ride-On-Demand.git
 ```
 
 Install node modules
